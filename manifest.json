@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Bring back the Explore button to github pages",
+  "description": "This extension will add a link in the github's header",
+  "version": "1.0",
+  "content_scripts":[{
+        "matches": ["https://github.com/*"],
+        "js": ["script.js"],
+        "run_at" : "document_end"
+      }
+    ],
+    "permissions": [
+      "activeTab",
+      "https://ajax.googleapis.com/"
+    ]
+}
