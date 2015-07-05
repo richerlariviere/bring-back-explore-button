@@ -1,6 +1,8 @@
 # bring-back-explore-button
 Bring back the "Explore" button Github
 
+I was so nostalgic of the Explore button removal so I decided to create a chrome extension to bring it back. It is my first extension for Chrome.
+
 ##Installation
 
 1. Download repository [ZIP file](/richerlariviere/bring-back-explore-button/archive/master.zip)
