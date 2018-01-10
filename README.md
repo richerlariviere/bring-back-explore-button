@@ -1,3 +1,5 @@
+Update: Github brought back the explore button. Cheers! This repo is now read-only.
+
 # bring-back-explore-button
 Bring back the "Explore" button to Github
 
